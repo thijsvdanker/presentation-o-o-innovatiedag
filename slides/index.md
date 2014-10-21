@@ -1,7 +1,10 @@
 
 # Met je hoofd in de archieven
+Ordina @ Nationaal Archief
 
-From the terminal, pop in:
+
+note:
+	From the terminal, pop in:
 
   ```yo reveal:slide "Slide Title"```
 
