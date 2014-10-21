@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Met je hoofd in de archieven",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "thijsvdanker",
+    "githubRepository": "presentation-o-o-innovatiedag"
+  }
+}
