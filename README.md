@@ -8,7 +8,7 @@ De presentatie wordt gedeployed naar: http://thijsvdanker.github.io/presentation
 - Clone the repository
 - Install node modules
 - Install bower dependencies
-- (optional) Install (yeoman reveal generator)[https://github.com/slara/generator-reveal]
+- (optional) Install [yeoman reveal generator](https://github.com/slara/generator-reveal)
 
 ### Install node modules
 ```bash
@@ -20,4 +20,4 @@ npm install
 bower install
 ```
 ### Install yeoman reveal generator
-Check the (site)[https://github.com/slara/generator-reveal] :)
+Check the [site](https://github.com/slara/generator-reveal) :)
