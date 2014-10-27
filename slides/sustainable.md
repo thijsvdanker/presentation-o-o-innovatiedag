@@ -1,3 +1,3 @@
 ##  sustainable
 
-@TODO uitleggen wat er sustainable aan is.. techniesch en conceptueel.
+@TODO uitleggen wat er sustainable aan is.. technisch en conceptueel.
