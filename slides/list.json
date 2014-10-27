@@ -15,7 +15,7 @@
         {
             "filename" : "beheer-techniek.md",
             "attr": {
-                "data-background": "img/druplicon.large_.png"
+                "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/druplicon.large_.png"
             }
         }
         
@@ -25,7 +25,7 @@
         {
             "filename": "photoviewer-techniek.md",
             "attr": {
-                "data-background": "img/bb_marionette.png"
+                "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/bb_marionette.png"
             }
         }
 	    
