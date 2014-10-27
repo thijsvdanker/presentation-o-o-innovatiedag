@@ -1,4 +1,18 @@
 [
     "index.md",
-    "introductie.md"
+    [
+        "tentoonstelling.md",
+        "zuilen.md"
+    ],
+    "powered-by-ordina.md",
+    [
+        "beheersysteem.md",
+        "beheer-techniek.md"
+    ],
+    [
+	    "photoviewer.md",
+	    "photoviewer-techniek.md"
+    ],
+    "sustainable.md",
+    
 ]
