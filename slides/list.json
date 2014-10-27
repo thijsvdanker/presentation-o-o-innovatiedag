@@ -2,7 +2,12 @@
     "index.md",
     [
         "tentoonstelling.md",
-        "zuilen.md"
+        {
+            "filename": "zuilen.md",
+            "attr": {
+                "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/tei_zuil.jpeg"
+            }
+        }
     ],
     "powered-by-ordina.md",
     [
