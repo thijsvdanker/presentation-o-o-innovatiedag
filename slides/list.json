@@ -12,11 +12,23 @@
     "powered-by-ordina.md",
     [
         "beheersysteem.md",
-        "beheer-techniek.md"
+        {
+            "filename" : "beheer-techniek.md",
+            "attr": {
+                "data-background": "img/druplicon.large_.png"
+            }
+        }
+        
     ],
     [
 	    "photoviewer.md",
-	    "photoviewer-techniek.md"
+        {
+            "filename": "photoviewer-techniek.md",
+            "attr": {
+                "data-background": "img/bb_marionette.png"
+            }
+        }
+	    
     ],
     "sustainable.md"
     
