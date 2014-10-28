@@ -2,6 +2,7 @@
     "index.md",
     [
         "tentoonstelling.md",
+        "geheugenpaleis.md",
         {
             "filename": "zuilen.md",
             "attr": {
@@ -13,22 +14,20 @@
     [
         "beheersysteem.md",
         {
-            "filename" : "beheer-techniek.md",
+            "filename": "beheer-techniek.md",
             "attr": {
                 "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/druplicon.large_.png"
             }
         }
-        
     ],
     [
-	    "photoviewer.md",
+        "photoviewer.md",
         {
             "filename": "photoviewer-techniek.md",
             "attr": {
                 "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/bb_marionette.png"
             }
         }
-	    
     ],
     "sustainable.md"
     
