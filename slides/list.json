@@ -8,16 +8,24 @@
                 "data-state": "youtubevid",
                 "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/gp_entree_dark.jpg"
             }
-        },
-        
+        }
+    ],
+    "powered-by-ordina.md",
+    [
         {
             "filename": "zuilen.md",
             "attr": {
                 "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/tei_zuil.jpeg"
             }
-        }
+        },
+        {
+            "filename": "photoviewer-techniek.md",
+            "attr": {
+                "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/bb_marionette.png"
+            }
+        },
+        "tei-standaard.md"
     ],
-    "powered-by-ordina.md",
     [
         "beheersysteem.md",
         {
@@ -27,15 +35,5 @@
             }
         }
     ],
-    [
-        "photoviewer.md",
-        {
-            "filename": "photoviewer-techniek.md",
-            "attr": {
-                "data-background": "https://raw.githubusercontent.com/thijsvdanker/presentation-o-o-innovatiedag/master/img/bb_marionette.png"
-            }
-        }
-    ],
     "sustainable.md"
-    
 ]
