@@ -1,2 +1,2 @@
 ## Een oneindige bron van Inspiratie
-<iframe id="player" width="853" height="480" src="//www.youtube.com/embed/u2Tf0IlEVWo?rel=0&amp;showinfo=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;origin=http://bitsnbolts.nl" frameborder="0" allowfullscreen></iframe>
+<iframe id="player" width="853" height="480" src="http://www.youtube.com/embed/u2Tf0IlEVWo?rel=0&amp;showinfo=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;origin=http://bitsnbolts.nl" frameborder="0" allowfullscreen></iframe>
