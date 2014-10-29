@@ -1,3 +1,3 @@
 ##  Interactieve front-end
 
-_Bezoekers kunnen documenten bekijken_
+_Bezoekers komen in aanraking met eeuwenoude documenten_
