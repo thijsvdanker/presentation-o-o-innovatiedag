@@ -161,6 +161,7 @@
             });
             Reveal.addEventListener( 'youtubevid', function() {
                 console.log('fairy dust');
+                console.log(playerState);
                 if (playerState == 'ready') {
                     player.playVideo();
                     Reveal.configure({autoSlide:0});
