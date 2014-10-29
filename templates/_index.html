@@ -29,6 +29,23 @@
                 document.getElementsByTagName( 'head' )[0].appendChild( link );
             }
         </script>
+        <script>
+                    function onPlayerReady(event) {
+                console.log('player rdy');
+                playerState = 'ready';
+            }
+            function onPlayerStateChange(event) {
+                console.log(event);
+                if (event.data == 0) {
+                    console.log('filmpje klaar!');
+                    Reveal.configure({autoSlide: 5000});
+                    Reveal.next();
+
+                }
+                // @TODO: als het filmpje klaar is 
+
+            }
+            </script>
        
 
         <!--[if lt IE 9]>
@@ -100,21 +117,6 @@
             }, false );
         </script>
         <script>
-            function onPlayerReady(event) {
-                console.log('player rdy');
-                playerState = 'ready';
-            }
-            function onPlayerStateChange(event) {
-                console.log(event);
-                if (event.data == 0) {
-                    console.log('filmpje klaar!');
-                    Reveal.configure({autoSlide: 5000});
-                    Reveal.next();
-
-                }
-                // @TODO: als het filmpje klaar is 
-
-            }
           var tag = document.createElement('script');
 
           tag.src = "https://www.youtube.com/iframe_api";
