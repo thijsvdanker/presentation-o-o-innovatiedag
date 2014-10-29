@@ -1,2 +1,2 @@
 ## Een oneindige bron van Inspiratie
-<iframe width="853" height="480" src="//www.youtube.com/embed/u2Tf0IlEVWo" frameborder="0" allowfullscreen></iframe>
+<iframe id="player" width="853" height="480" src="//www.youtube.com/embed/u2Tf0IlEVWo?rel=0&amp;showinfo=0&amp;enablejsapi=1&amp;playerapiid=ytplayer" frameborder="0" allowfullscreen></iframe>
